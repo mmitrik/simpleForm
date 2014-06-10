@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace simpleFormAdminApp
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml push some code
     /// </summary>
     public partial class MainWindow : Window
     {
