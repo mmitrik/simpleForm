@@ -9,7 +9,7 @@ using System.Windows;
 namespace simpleFormAdminApp
 {
     /// <summary>
-    /// Interaction logic for App.xaml
+    /// Interaction logic for App.xaml IN test again
     /// </summary>
     public partial class App : Application
     {
